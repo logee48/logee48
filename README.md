@@ -2,6 +2,7 @@
 
 
 <h1>logee48</h1>
+<img src="char.png">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Rust, C, DSA
