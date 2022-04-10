@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**logee48/logee48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>logee48</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Rust, C, DSA
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
