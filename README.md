@@ -12,7 +12,7 @@
 - 📫 How to reach me: logeshe9159@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: national animal of scotland is Unicorn -->
-<h1 align="center">Hi 👋, I'm logesh</h1>
+<h1 align="center">hi i'm logesh</h1>
 <h3 align="center">Just a normal guy who like to code for fun.</h3>
 
 <h3 align="left">Connect with me:</h3>
